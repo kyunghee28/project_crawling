@@ -2,14 +2,14 @@ import bs4,requests,re
 import urllib.request
 from bs4 import BeautifulSoup
 
-# db_info = [
+
 # {'city_no':28,'city_id':'1014_paris','city_name':'파리','city_name_eng':'paris','city_no':28,'country_no':9,'pv_start_no':3800},
 # {'city_no':29,'city_id':'1015_rome','city_name':'로마','city_name_eng':'rome','city_no':29,'country_no':9,'pv_start_no':4000},
 # {'city_no':30,'city_id':'1016_london','city_name':'런던','city_name_eng':'london','city_no':30,'country_no':9,'pv_start_no':4200},
 # {'city_no':31,'city_id':'1017_barcelona','city_name':'바르셀로나','city_name_eng':'barcelona','city_no':31,'country_no':9,'pv_start_no':4400},
 # {'city_no':32,'city_id':'1018_croatia','city_name':'크로아티아','city_name_eng':'croatia','city_no':32,'country_no':9,'pv_start_no':4600},
 # {'city_no':33,'city_id':'1019_istanbul','city_name':'이스탄불','city_name_eng':'istanbul','city_no':33,'country_no':9,'pv_start_no':4800}
-# ]
+
 
 city_id='1019_istanbul'
 pv_no = 4800-1
