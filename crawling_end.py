@@ -1,3 +1,5 @@
+# 교육목적 크롤링입니다. 
+
 import bs4,requests,re
 import urllib.request
 from bs4 import BeautifulSoup
