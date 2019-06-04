@@ -6,4 +6,4 @@
 
 ### [프로젝트 소스 - spring 기반](https://github.com/kyunghee28/project-trip)
 
-##### ps.교육목적 크롤링입니다.
+##### ps. 교육목적 크롤링입니다.
